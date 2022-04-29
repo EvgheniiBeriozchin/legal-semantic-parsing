@@ -1,0 +1,4 @@
+sparqlwrapper
+pandas
+names
+pymongo
